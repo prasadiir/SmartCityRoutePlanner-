@@ -9,3 +9,4 @@ public class LocationNode {
         left = right = null;
     }
 }
+
